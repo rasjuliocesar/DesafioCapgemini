@@ -9,4 +9,6 @@
 
 :two: Questão número dois, realizar a validação de uma string (password) informada na entrada de dados. A String (passowrd) deverá passar por algumas validações de tamanho mínimo, conteúdo com letra maiúscula e minúscula, dígito e caracter especial.
 
+- Para utilizar/testar o Exercício Dois, informar um valor/senha do tipo texto  na variável 'password'.
+
 :three: Questão número três, desenvolver um algoritmo que encontre anagramas em substrings da string passada como entrada (quantidade).
