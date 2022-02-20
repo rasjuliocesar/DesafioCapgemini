@@ -3,6 +3,9 @@
 
 ### :heavy_check_mark: Java foi a Linguagem de Programação utilizada para responder ao Desafio.
 
+- IDE Eclipse ou outra de sua preferência para execução do código;
+- Outra sugestão seria usar o prompt com os comandos Javac e Java no arquivo .class
+
 :one: Questão número um, pede escrever um algorítmo que mostre uma escada (representada pelo símbolo do asterístico + espaços). O valor inteiro de entrada será a quantidade de degraus.
 
 - Para utilizar/testar o Exercício Um, informar um valor inteiro na variável 'steps'.
